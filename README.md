@@ -1,1 +1,1 @@
-# lab3-programming-2026
+Project 3 of C++ Programming: Advanced Topics Task 3
