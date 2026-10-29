@@ -1,3 +1,6 @@
+// MSVC v143 (version 19.44.35228, 32-bit x86)
+// Kruhlienia Yulia K-28
+
 #include <iostream>
 #include <thread>
 #include <vector>
