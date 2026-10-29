@@ -11,6 +11,7 @@
 !*.jpg
 !*.jpeg
 !*.png
+!*.txt
 
 # 4. Un-ignore this file itself so it can be committed
 !.gitignore
